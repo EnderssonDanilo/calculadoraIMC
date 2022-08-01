@@ -80,3 +80,8 @@ body {
   color: #000;
   filter: opacity(0.8);
 }
+
+h3 {
+  margin-left: 40px;
+  line-height: 2;
+}
